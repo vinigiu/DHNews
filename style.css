@@ -1,0 +1,22 @@
+body {
+    font-family: 'Rajdhani', sans-serif;
+}
+
+h1 {
+    color: #ec183f;
+}
+
+footer {
+    border-top: 0.1rem lightgray solid;
+    padding: 1rem;
+    padding-left: 17rem;
+    padding-right: 17rem;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.socialMedia {
+    width: 2rem;
+    height: auto;
+}
